@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
 </div>
 
-<h1 align="center">👋Hola, mundo❗ 🌍 Soy Alex Rofes, programador junior.</h1>
-<h3 align="center">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
+<h1 align="center" style="color: #ffffff;">👋Hola, mundo❗ 🌍 Soy Alex Rofes, programador junior.</h1>
+<h3 align="center" style="color: #ffffff;">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
 
-<h2 align="center">Sobre mí 🙄</h2>
-<p>Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.👨</p>
+<h2 align="center" style="color: #ffffff;">Sobre mí 🙄</h2>
+<p style="color: #ffffff;">Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.👨</p>
 <div align="center">
   <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200">
 </div>
@@ -25,19 +25,19 @@
 
 - ⚡ Dato curioso: Además de programar, me encanta hacer deporte y cocinar.
 
-<h2 align="center">Proyectos destacados ⭐💪</h2>
+<h2 align="center" style="color: #ffffff;">Proyectos destacados ⭐💪</h2>
 
-<h2 align="center">Conéctate conmigo</h2>
+<h2 align="center" style="color: #ffffff;">Conéctate conmigo</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a0lexrofesgalobardes/" target="blank">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a0lexrofesgalobardes/" target="blank" style="color: #ffffff;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/alex_rofes/" target="blank">
+  <a href="https://instagram.com/https://www.instagram.com/alex_rofes/" target="blank" style="color: #ffffff;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
 
-<h2 align="center">Lenguajes y Herramientas</h2>
+<h2 align="center" style="color: #ffffff;">Lenguajes y Herramientas</h2>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -89,6 +89,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rofinhooo&show_icons=true&locale=en&layout=compact" alt="Lenguajes" />
 </p>
-
-<p align="center">
- 
