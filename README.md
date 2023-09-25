@@ -6,7 +6,10 @@
 <h3 align="center">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
 
 <h2 align="center">Sobre mí 🙄</h2>
-<p>Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.👨‍💻</p>
+<p>Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.👨</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200">
+</div>
 
 - 🔭 Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas).
 
