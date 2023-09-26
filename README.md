@@ -8,7 +8,7 @@
 <h3 align="center" style="color: #ffffff;">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
 </br>
 
-<h2 align="center" style="color: #ffffff;">Sobre mí 🙄</h2>
+<h2 align="center" style="color: #ffffff;">Sobre mí 😎</h2>
 <p style="color: #ffffff;">Soy un apasionado programador con sed de conocimiento y creatividad. Mi pasión es la programación y estoy comprometido en aprender y contribuir en este emocionante campo.</p>
 </br>
 <div align="center">
@@ -18,17 +18,19 @@
 
 
 
-- 🔭 Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas).
+- Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas). 👨‍💻
 
-- 🌱 Estoy aprendiendo **PHP, Python y Java en este momento**.
+- Estoy aprendiendo 🤓 **PHP, Python y Java en este momento**.
 
-- 💬 Puedes preguntarme sobre **HTML5, CSS, JavaScript, Bootstrap, Python, Node.js, Flask y SQL**.
+- Puedes preguntarme 🙋‍♀️ sobre **HTML5, CSS, JavaScript, Bootstrap, Python, Node.js, Flask y SQL**.
 
-- 📧 Puedes contactarme en **alexrofes1992@gmail.com**.
+- Puedes contactarme en **alexrofes1992@gmail.com**. 📩
 
-- 📄 Puedes ver mis experiencias en mi [CV].
+- Puedes ver mis experiencias en mi <a href="file:///C:/Users/galob/OneDrive/Desktop/CV%20Full%20Stack%20(1).pdf" download>
+  CV
+</a>. 📃
 
-- ⚡ Dato curioso: Además de programar, me encanta hacer deporte y cocinar.
+- Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
 
 <h2 align="center" style="color: #ffffff;">Proyectos destacados ⭐💪</h2>
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
@@ -105,10 +107,10 @@
 </p>
 </br>
 <h2 align="center" style="color: #ffffff;">Mis estadísticas</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rofinhooo&show_icons=true&locale=en&layout=compact" alt="Lenguajes" />
-  </br>
- <a href="https://streak-stats.demolab.com?user=RofinhoOo&theme=darcula&border_radius=4.6&locale=es">
-  <img src="https://streak-stats.demolab.com?user=RofinhoOo&theme=darcula&border_radius=4.6&locale=es" alt="GitHub Streak" />
-</a>
-</p>
+</br>
+<div align="center">
+<p><img align="center" style="#f0f0f0" src="https://github-readme-stats.vercel.app/api/top-langs?username=rofinhooo&show_icons=true&locale=en&layout=compact" alt="rofinhooo" /></p>
+</br>
+<p>&nbsp;<img align="center" style="#f0f0f0" src="https://github-readme-stats.vercel.app/api?username=rofinhooo&show_icons=true&locale=en" alt="rofinhooo" /></p>
+</div>
+
