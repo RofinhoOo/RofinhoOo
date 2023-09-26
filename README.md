@@ -1,21 +1,26 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
+</br>
+  <img src="img/ar.jpg">
 </div>
+</br>
 
 <h1 align="center" style="color: #ffffff;">👋Hola, mundo❗ 🌍 Soy Alex Rofes, programador junior.</h1>
 <h3 align="center" style="color: #ffffff;">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
+</br>
 
 <h2 align="center" style="color: #ffffff;">Sobre mí 🙄</h2>
-<p style="color: #ffffff;">Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.</p>
+<p style="color: #ffffff;">Soy un apasionado programador con sed de conocimiento y creatividad. Mi pasión es la programación y estoy comprometido en aprender y contribuir en este emocionante campo.</p>
+</br>
 <div align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
 </div>
+</br>
+
+
 
 - 🔭 Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas).
 
 - 🌱 Estoy aprendiendo **PHP, Python y Java en este momento**.
-
-- 👨‍💻 Todos mis proyectos están disponibles en [mi portafolio](https://alexrofes.vercel.app/#portfolio).
 
 - 💬 Puedes preguntarme sobre **HTML5, CSS, JavaScript, Bootstrap, Python, Node.js, Flask y SQL**.
 
@@ -27,9 +32,17 @@
 
 <h2 align="center" style="color: #ffffff;">Proyectos destacados ⭐💪</h2>
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
-<a href="img/rider.PNG></a>
+<a href="https://rider-creation-app.onrender.com/">
+<img src="img/rider.PNG"></a>
+</br>
+
+<h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
+<p align="center">Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳</p>
+<a href="https://alexrofes.vercel.app/#portfolio">
+<img src="img/portafolio.PNG"></a>
 
 <h2 align="center" style="color: #ffffff;">Conéctate conmigo</h2>
+
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a0lexrofesgalobardes/" target="blank" style="color: #ffffff;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -37,7 +50,10 @@
   <a href="https://instagram.com/https://www.instagram.com/alex_rofes/" target="blank" style="color: #ffffff;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  <a href="mailto:alexrofes1992@gmail.com" target="blank" style="color: #ffffff;"> <img src="img/email.png" height="35" width="40" /></a>
+  <a href="https://github.com/RofinhoOo" target="blank" style="color: #ffffff;"> <img src="img/github.png" height="35" width="40" /></a>
 </p>
+</br>
 
 <h2 align="center" style="color: #ffffff;">Lenguajes y Herramientas</h2>
 <p align="center">
@@ -87,7 +103,13 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-
+</br>
+<h2 align="center" style="color: #ffffff;">Mis estadísticas</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rofinhooo&show_icons=true&locale=en&layout=compact" alt="Lenguajes" />
+  </br>
+ <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RofinhoOo&theme=darcula&border_radius=4.6&locale=es" alt="GitHub Streak" />
+  </a>
+  
 </p>
