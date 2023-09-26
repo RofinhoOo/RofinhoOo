@@ -108,8 +108,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rofinhooo&show_icons=true&locale=en&layout=compact" alt="Lenguajes" />
   </br>
- <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=RofinhoOo&theme=darcula&border_radius=4.6&locale=es" alt="GitHub Streak" />
-  </a>
-  
+ <a href="https://streak-stats.demolab.com?user=RofinhoOo&theme=darcula&border_radius=4.6&locale=es">
+  <img src="https://streak-stats.demolab.com?user=RofinhoOo&theme=darcula&border_radius=4.6&locale=es" alt="GitHub Streak" />
+</a>
 </p>
