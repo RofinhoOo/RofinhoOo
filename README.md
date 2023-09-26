@@ -6,9 +6,9 @@
 <h3 align="center" style="color: #ffffff;">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
 
 <h2 align="center" style="color: #ffffff;">Sobre mí 🙄</h2>
-<p style="color: #ffffff;">Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.👨</p>
+<p style="color: #ffffff;">Siempre en busca de nuevos desafíos y aprendizajes. Joven con raíces en la cocina, pero completamente enamorado de la programación.</p>
 <div align="center">
-  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/10zxDv7Hv5RF9C/giphy.gif" width="300">
 </div>
 
 - 🔭 Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas).
@@ -26,6 +26,8 @@
 - ⚡ Dato curioso: Además de programar, me encanta hacer deporte y cocinar.
 
 <h2 align="center" style="color: #ffffff;">Proyectos destacados ⭐💪</h2>
+<h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
+<a href="img/rider.PNG></a>
 
 <h2 align="center" style="color: #ffffff;">Conéctate conmigo</h2>
 <p align="center">
