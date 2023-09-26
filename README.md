@@ -1,6 +1,6 @@
 <div align="center">
 </br>
-  <img src="img/imagen.jpeg">
+  <img src="img/canva.jpeg">
 </div>
 </br>
 
