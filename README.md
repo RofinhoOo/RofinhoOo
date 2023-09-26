@@ -26,7 +26,7 @@
 
 - Puedes contactarme en **alexrofes1992@gmail.com**. 📩
 
-- Puedes ver mis experiencias en mi <a href="https://www.linkedin.com/in/%C3%A0lexrofesgalobardes/" target="_blank">LinkedIn</a>. 📃
+- Puedes ver mis experiencias en mi <a href="https://www.linkedin.com/in/%C3%A0lexrofesgalobardes/">LinkedIn</a>. 📃
 
 
 - Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
