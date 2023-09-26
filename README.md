@@ -31,7 +31,7 @@
 
 - Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
 
-<h2 align="center" style="color: #ffffff;">Proyectos destacados ⭐💪</h2>
+<h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
 <a href="https://rider-creation-app.onrender.com/">
 <img src="img/rider.PNG"></a>
