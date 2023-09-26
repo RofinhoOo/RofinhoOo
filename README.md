@@ -4,9 +4,9 @@
 </div>
 </br>
 
-<h1 align="center" style="color: #ffffff;">👋Hola, mundo❗ 🌍 Soy Alex Rofes, programador junior.</h1>
+<h1 align="center" style="color: #ffffff;">Hola, mundo 👋🌍 Soy Alex Rofes, programador junior.</h1>
 <h3 align="center" style="color: #ffffff;">Un apasionado desarrollador web fullstack de Barcelona. ¡Me considero un programador capaz de hacer cosas increíbles!</h3>
-</br>
+
 
 <h2 align="center" style="color: #ffffff;">Sobre mí 😎</h2>
 <p style="color: #ffffff;">Soy un apasionado programador con sed de conocimiento y creatividad. Mi pasión es la programación y estoy comprometido en aprender y contribuir en este emocionante campo.</p>
@@ -43,6 +43,7 @@
 <img src="img/portafolio.PNG"></a>
 
 <h2 align="center" style="color: #ffffff;">Conéctate conmigo</h2>
+</br>
 
 <p align="center">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/%c3%a0lexrofesgalobardes/" target="blank" style="color: #ffffff;">
@@ -54,9 +55,10 @@
   <a href="mailto:alexrofes1992@gmail.com" target="blank" style="color: #ffffff;"> <img src="img/email.png" height="35" width="40" /></a>
   <a href="https://github.com/RofinhoOo" target="blank" style="color: #ffffff;"> <img src="img/github.png" height="35" width="40" /></a>
 </p>
-</br>
+
 
 <h2 align="center" style="color: #ffffff;">Lenguajes y Herramientas</h2>
+</br>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -104,7 +106,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
 </p>
-</br>
+
 <h2 align="center" style="color: #ffffff;">Mis estadísticas</h2>
 </br>
 <div align="center">
