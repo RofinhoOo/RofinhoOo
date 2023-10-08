@@ -18,7 +18,7 @@
 
 
 
-- Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas). 👨‍💻
+- Actualmente estoy trabajando en [Tetris](https://github.com/RofinhoOo/Tetris) 🎮,[AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas). 👨‍💻
 
 - Estoy aprendiendo 🤓 **PHP, Python y Java en este momento**.
 
