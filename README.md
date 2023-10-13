@@ -36,6 +36,10 @@
 <a href="https://rider-creation-app.onrender.com/">
 <img src="img/rider.PNG"></a>
 </br>
+<h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
+<a href="çhttps://tetris-js-beta.vercel.app/">
+<img src="img/tetris-app.PNG"></a>
+</br>
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
 <p align="center">Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳</p>
