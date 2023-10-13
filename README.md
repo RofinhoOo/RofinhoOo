@@ -18,7 +18,7 @@
 
 
 
-- Actualmente estoy trabajando en [Tetris](https://github.com/RofinhoOo/Tetris) 🎮, [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas). 👨‍💻
+- Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas). 👨‍💻
 
 - Estoy aprendiendo 🤓 **PHP, Python y Java en este momento**.
 
@@ -34,6 +34,8 @@
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
 <a href="https://rider-creation-app.onrender.com/">
+<h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
+<a href="https://tetris-js-beta.vercel.app/">
 <img src="img/rider.PNG"></a>
 </br>
 
