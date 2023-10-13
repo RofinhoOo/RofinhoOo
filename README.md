@@ -37,7 +37,7 @@
 <img src="img/rider.PNG"></a>
 </br>
 <h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
-<a href="çhttps://tetris-js-beta.vercel.app/">
+<a href="https://tetris-js-beta.vercel.app/">
 <img src="img/tetris-app.PNG"></a>
 </br>
 
