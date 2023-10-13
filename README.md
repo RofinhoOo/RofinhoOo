@@ -34,9 +34,11 @@
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
 <a href="https://rider-creation-app.onrender.com/">
-<h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
-<a href="https://tetris-js-beta.vercel.app/">
 <img src="img/rider.PNG"></a>
+</br>
+<h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
+<a href="çhttps://tetris-js-beta.vercel.app/">
+<img src="img/tetris-app.PNG"></a>
 </br>
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
