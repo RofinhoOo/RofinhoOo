@@ -18,8 +18,6 @@
 
 
 
-- Actualmente estoy trabajando en [AplicacionTareas](https://github.com/RofinhoOo/AplicacionTareas). 👨‍💻
-
 - Estoy aprendiendo 🤓 **PHP, Python y Java en este momento**.
 
 - Puedes preguntarme 🙋‍♀️ sobre **HTML5, CSS, JavaScript, Bootstrap, Python, Node.js, Flask y SQL**.
