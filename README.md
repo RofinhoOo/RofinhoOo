@@ -37,8 +37,12 @@
 <img src="img/rider.PNG"></a>
 </br>
 <h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
-<a href="çhttps://tetris-js-beta.vercel.app/">
+<a href="https://tetris-js-beta.vercel.app/">
 <img src="img/tetris-app.PNG"></a>
+</br>
+<h3 align="start" style="color: #ffffff;">Pokédex 🐭⚡️</h3>
+<a href="https://pokedex-kappa-jade.vercel.app/">
+<img src="img/pokedex-img.PNG"></a>
 </br>
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
