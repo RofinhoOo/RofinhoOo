@@ -29,7 +29,7 @@
 
 - Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
 
-<h2 align="center">⭐Proyectos destacados⭐</h2>
+ <h2 align="center">⭐Proyectos destacados⭐</h2>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
 
@@ -54,13 +54,13 @@
       </a>
     </div>
 
-    <div align="center" style="margin-top: 20px;">
+  </div>
+
+  <div align="center" style="margin-top: 20px;">
     <h3>Portfolio 🧾 React + Tailwind</h3>
     <a href="https://sadelee.vercel.app/">
       <img src="img/portfolio.PNG" style="width: 200px; height: 150px;">
     </a>
-  </div>
-
   </div>
 
 
