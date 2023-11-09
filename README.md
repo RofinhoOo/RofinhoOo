@@ -33,7 +33,7 @@
 
  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 
-  <div style="text-align: center;">
+  <div style="justify-content: center; align-items: center;">
     <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
     <a href="https://rider-creation-app.onrender.com/">
       <img src="img/rider.PNG" style="width: 200px; height: 150px;">
