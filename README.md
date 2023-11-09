@@ -31,7 +31,7 @@
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 
-<div>
+<div style="display: inline-block; justify-content: space-between; align-items: center;">
 
   <div style="text-align: center;">
     <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
