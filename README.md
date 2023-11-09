@@ -29,41 +29,46 @@
 
 - Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
 
-<h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
+<h2 align="center">⭐Proyectos destacados⭐</h2>
 
-<div style="display: inline-block; justify-content: space-between; align-items: center;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
 
-  <div style="text-align: center;">
-    <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
-    <a href="https://rider-creation-app.onrender.com/">
-      <img src="img/rider.PNG" style="width: 200px; height: 150px;">
-    </a>
+    <div style="text-align: center; margin-bottom: 20px;">
+      <h3>RiderMusic 🎹🎵</h3>
+      <a href="https://rider-creation-app.onrender.com/">
+        <img src="img/rider.PNG" style="width: 200px; height: 150px;">
+      </a>
+    </div>
+
+    <div style="text-align: center; margin-bottom: 20px;">
+      <h3>Tetris JS 🎮🕹️</h3>
+      <a href="https://tetris-by-alex.vercel.app/">
+        <img src="img/tetris-app.PNG" style="width: 200px; height: 150px;">
+      </a>
+    </div>
+
+    <div style="text-align: center; margin-bottom: 20px;">
+      <h3>Pokédex 🐭⚡️</h3>
+      <a href="https://pokedex-kappa-jade.vercel.app/">
+        <img src="img/pokedex-img.PNG" style="width: 200px; height: 150px;">
+      </a>
+    </div>
+
+    <div style="text-align: center; margin-bottom: 20px;">
+      <h3>Proyecto 4</h3>
+      <a href="Enlace de tu Proyecto 4">
+        <img src="Imagen de tu Proyecto 4" style="width: 200px; height: 150px;">
+      </a>
+    </div>
+
   </div>
 
-  <div style="text-align: center;">
-    <h3 style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
-    <a href="https://tetris-by-alex.vercel.app/">
-      <img src="img/tetris-app.PNG" style="width: 200px; height: 150px;">
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <h3 style="color: #ffffff;">Pokédex 🐭⚡️</h3>
-    <a href="https://pokedex-kappa-jade.vercel.app/">
-      <img src="img/pokedex-img.PNG" style="width: 200px; height: 150px;">
-    </a>
-  </div>
-
-  <div style="text-align: center;">
-    <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
+  <div align="center" style="margin-top: 20px;">
+    <h3>Portfolio 🧾 React + Tailwind</h3>
     <a href="https://sadelee.vercel.app/">
       <img src="img/portfolio.PNG" style="width: 200px; height: 150px;">
     </a>
   </div>
-
-  <!-- Agrega más proyectos aquí siguiendo el mismo patrón -->
-
-</div>
 
 
 
