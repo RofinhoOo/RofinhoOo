@@ -31,7 +31,7 @@
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 
-<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap;">
+<div style="display: flex; justify-content: space-around; align-items: center; overflow-x: auto; white-space: nowrap;">
 
   <div style="text-align: center;">
     <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
@@ -57,6 +57,7 @@
   <!-- Agrega más proyectos aquí siguiendo el mismo patrón -->
 
 </div>
+
 
 
 
