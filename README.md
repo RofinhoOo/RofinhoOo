@@ -31,9 +31,9 @@
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 
- <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
+ <div>
 
-  <div style="display: flex; justify-content: center; align-items: center;">
+  <div style="text-align: center;">
     <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
     <a href="https://rider-creation-app.onrender.com/">
       <img src="img/rider.PNG" style="width: 200px; height: 150px;">
