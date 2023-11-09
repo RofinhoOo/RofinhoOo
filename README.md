@@ -31,7 +31,7 @@
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 
-<div style="display: flex; flex-direction: inline; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-wrap: nowrap; overflow-x: auto; white-space: nowrap;">
 
   <div style="text-align: center;">
     <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
@@ -54,16 +54,10 @@
     </a>
   </div>
 
-  <div style="text-align: center;">
-    <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
-    <a href="https://sadelee.vercel.app/">
-      <img src="img/portfolio.PNG" style="width: 200px; height: 150px;">
-    </a>
-  </div>
-
   <!-- Agrega más proyectos aquí siguiendo el mismo patrón -->
 
 </div>
+
 
 
 
