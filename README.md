@@ -54,19 +54,17 @@
     </a>
   </div>
 
+  <div style="text-align: center;">
+    <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
+    <a href="https://sadelee.vercel.app/">
+      <img src="img/portfolio.PNG" style="width: 200px; height: 150px;">
+    </a>
+  </div>
+
   <!-- Agrega más proyectos aquí siguiendo el mismo patrón -->
 
 </div>
 
-<div style="text-align: center;">
-  <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
-  <a href="https://sadelee.vercel.app/">
-    <video width="320" height="240" controls>
-      <source src="PortfolioVideo.gif" type="video/mp4">
-      Tu navegador no soporta el elemento de video.
-    </video>
-  </a>
-</div>
 
 
 
