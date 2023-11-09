@@ -31,7 +31,7 @@
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 
- <div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+ <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center;">
 
   <div style="text-align: center;">
     <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
