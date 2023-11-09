@@ -45,7 +45,7 @@
 
 <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
 <a href="https://sadelee.vercel.app/">
-<img src="img/portfolio.PNG" style="width: 200px; height: 150px;"></a>
+<img src="img/portfolio.PNG"></a>
 </br>
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
