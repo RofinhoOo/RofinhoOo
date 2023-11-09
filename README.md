@@ -12,7 +12,7 @@
 <p style="color: #ffffff;">Soy un apasionado programador con sed de conocimiento y creatividad. Mi pasión es la programación y estoy comprometido en aprender y contribuir en este emocionante campo.</p>
 </br>
 <div align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300">
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="200">
 </div>
 </br>
 
@@ -30,18 +30,45 @@
 - Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
-<h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
-<a href="https://rider-creation-app.onrender.com/">
-<img src="img/rider.PNG"></a>
-</br>
-<h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
-<a href="https://tetris-js-beta.vercel.app/">
-<img src="img/tetris-app.PNG"></a>
-</br>
-<h3 align="start" style="color: #ffffff;">Pokédex 🐭⚡️</h3>
-<a href="https://pokedex-kappa-jade.vercel.app/">
-<img src="img/pokedex-img.PNG"></a>
-</br>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: space-around; align-items: center;">
+
+  <div style="text-align: center;">
+    <h3 style="color: #ffffff;">RiderMusic 🎹🎵</h3>
+    <a href="https://rider-creation-app.onrender.com/">
+      <img src="img/rider.PNG" style="width: 200px; height: 150px;">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h3 style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
+    <a href="https://tetris-by-alex.vercel.app/">
+      <img src="img/tetris-app.PNG" style="width: 200px; height: 150px;">
+    </a>
+  </div>
+
+  <div style="text-align: center;">
+    <h3 style="color: #ffffff;">Pokédex 🐭⚡️</h3>
+    <a href="https://pokedex-kappa-jade.vercel.app/">
+      <img src="img/pokedex-img.PNG" style="width: 200px; height: 150px;">
+    </a>
+  </div>
+
+  <!-- Agrega más proyectos aquí siguiendo el mismo patrón -->
+
+</div>
+
+<div style="text-align: center;">
+  <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
+  <a href="https://sadelee.vercel.app/">
+    <video width="320" height="240" controls>
+      <source src="PortfolioVideo.gif" type="video/mp4">
+      Tu navegador no soporta el elemento de video.
+    </video>
+  </a>
+</div>
+
+
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
 <p align="center">Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳</p>
