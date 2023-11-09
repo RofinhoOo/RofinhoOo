@@ -54,23 +54,14 @@
       </a>
     </div>
 
-    <div style="text-align: center; margin-bottom: 20px;">
-      <h3>Proyecto 4</h3>
-      <a href="Enlace de tu Proyecto 4">
-        <img src="Imagen de tu Proyecto 4" style="width: 200px; height: 150px;">
-      </a>
-    </div>
-
-  </div>
-
-  <div align="center" style="margin-top: 20px;">
+    <div align="center" style="margin-top: 20px;">
     <h3>Portfolio 🧾 React + Tailwind</h3>
     <a href="https://sadelee.vercel.app/">
       <img src="img/portfolio.PNG" style="width: 200px; height: 150px;">
     </a>
   </div>
 
-
+  </div>
 
 
 
