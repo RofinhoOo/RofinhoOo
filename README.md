@@ -48,6 +48,11 @@
 <img src="img/portfolio.PNG"></a>
 </br>
 
+<h3 style="color: #ffffff;">Memory 🧠 Game 🎮</h3>
+<a href="https://memory-game-anime.vercel.app/">
+<img src="img/memory.PNG"></a>
+</br>
+
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
 <p align="center">Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳</p>
 <a href="https://alexrofes.vercel.app/#portfolio">
