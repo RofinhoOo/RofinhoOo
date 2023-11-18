@@ -30,36 +30,28 @@
 - Dato curioso: Además de programar, me encanta hacer deporte ⚽ y cocinar. 🦐
 
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
-
-<div class="galeria">
-        <div class="proyecto">
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
 <a href="https://rider-creation-app.onrender.com/">
-<img src="img/rider.PNG"></a>
-</div>
-<div class="proyecto">
+<img src="img/rider.PNG" style="width: 300px; height: 200px;"></a>
+</br>
 <h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
 <a href="https://tetris-by-alex.vercel.app/">
-<img src="img/tetris-app.PNG"></a>
-</div>
-<div class="proyecto">
+<img src="img/tetris-app.PNG" style="width: 300px; height: 200px;"></a>
+</br>
 <h3 align="start" style="color: #ffffff;">Pokédex 🐭⚡️</h3>
 <a href="https://pokedex-kappa-jade.vercel.app/">
-<img src="img/pokedex-img.PNG"></a>
-</div>
-</div>
-<div class="galeria">
-        <div class="proyecto">
+<img src="img/pokedex-img.PNG" style="width: 300px; height: 200px;"></a>
+</br>
+
 <h3 style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
 <a href="https://sadelee.vercel.app/">
-<img src="img/portfolio.PNG"></a>
-</div>
+<img src="img/portfolio.PNG" style="width: 300px; height: 200px;"></a>
+</br>
 
 <h3 style="color: #ffffff;">Memory 🧠 Game 🎮</h3>
 <a href="https://memory-game-anime.vercel.app/">
-<img src="img/memory.PNG"></a>
-</div>
-</div>
+<img src="img/memory.PNG" style="width: 300px; height: 200px;"></a>
+</br>
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
 <p align="center">Pagina personal donde me podras conocer un poco más. En constante construcción y progreso!🌳</p>
