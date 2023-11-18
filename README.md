@@ -33,7 +33,7 @@
 <h3 align="start" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
 <a href="https://rider-creation-app.onrender.com/">
 <img src="img/rider.PNG" style="width: 300px; height: 200px;"></a>
-</br>
+
 <h3 align="start" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
 <a href="https://tetris-by-alex.vercel.app/">
 <img src="img/tetris-app.PNG" style="width: 300px; height: 200px;"></a>
