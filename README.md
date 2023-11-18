@@ -32,25 +32,25 @@
 <h2 align="center" style="color: #ffffff;">⭐Proyectos destacados⭐</h2>
 <h3 align="center" style="color: #ffffff;">RiderMusic 🎹🎵</h3>
 <a href="https://rider-creation-app.onrender.com/">
-<img src="img/rider.PNG"></a>
+<img src="img/rider.PNG"style="width: 500px; height: 200px;"></a>
 </br>
 <h3 align="center" style="color: #ffffff;">Tetris JS 🎮🕹️</h3>
 <a href="https://tetris-by-alex.vercel.app/">
-<img src="img/tetris-app.PNG"></a>
+<img src="img/tetris-app.PNG" style="width: 500px; height: 200px;"></a>
 </br>
 <h3 align="center" style="color: #ffffff;">Pokédex 🐭⚡️</h3>
 <a href="https://pokedex-kappa-jade.vercel.app/">
-<img src="img/pokedex-img.PNG"></a>
+<img src="img/pokedex-img.PNG" style="width: 500px; height: 200px;"></a>
 </br>
 
 <h3  align="center" style="color: #ffffff;">Portfolio 🧾 React + Tailwind</h3>
 <a href="https://sadelee.vercel.app/">
-<img src="img/portfolio.PNG" ></a>
+<img src="img/portfolio.PNG" style="width: 500px; height: 200px;"></a>
 </br>
 
 <h3  align="center" style="color: #ffffff;">Memory 🧠 Game 🎮</h3>
 <a href="https://memory-game-anime.vercel.app/">
-<img src="img/memory.PNG"></a>
+<img src="img/memory.PNG" style="width: 500px; height: 200px;"></a>
 </br>
 
 <h2 align="center" style="color: #ffffff;">Mi portafolio 📝</h2>
